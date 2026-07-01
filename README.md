@@ -41,6 +41,10 @@ variable de entorno `P2P_MODEL`. Para un volcado de diagnóstico por decisión,
 | `car1-ow1_prompt2pole26.rgb` | Livery del coche. |
 | `requirements.txt` | Dependencias de Python. |
 
+## Más información
+
+Vídeos, contacto y material adicional: <https://linktr.ee/prompt2pole>
+
 ## Licencia
 
-MIT (ver [LICENSE](LICENSE)).
+Ver [LICENSE](LICENSE).
